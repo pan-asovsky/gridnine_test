@@ -1,2 +1,1 @@
-# gridnine_test
-Test task for the Gridnine company.
+### Test task for the Gridnine company.
