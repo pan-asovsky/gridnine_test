@@ -1,1 +1,1 @@
-### Test task for the Gridnine company.
+### Test task for the 'Gridnine Systems' company.
